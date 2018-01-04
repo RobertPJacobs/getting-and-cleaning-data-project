@@ -1,12 +1,12 @@
-##Code book for Coursera Getting and Cleaning Data course project
+# Code book for Coursera Getting and Cleaning Data course project
 
-#Data
-#Variables 
+## Data
+## Variables 
 
-#Identifiers
-#Average of measurements
+## Identifiers
+## Average of measurements
 
-#Time-domain signals
-#Frequency-domain signals
+### Time-domain signals
+### Frequency-domain signals
 
-#Transformations 
+## Transformations 
