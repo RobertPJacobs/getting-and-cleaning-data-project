@@ -29,12 +29,10 @@ In addition to the identifies Each row containss 66 averaged signal measurements
   * TimeBodyAccelerometerMeanX
   * TimeBodyAccelerometerMeanY
   * TimeBodyAccelerometerMeanZ
-
 * Standard deviation of the time-domain body acceleration X, Y and Z directions:
   * TimeBodyAccelerometerStandardDev
   * TimeBodyAccelerometerStandardDevY
   * TimeBodyAccelerometerStandardDevZ
-
 * Average time-domain gravity acceleration X, Y and Z directions:
   * TimeGravityAccelerometerMeanX
   * TimeGravityAccelerometerMeanY
@@ -106,22 +104,18 @@ In addition to the identifies Each row containss 66 averaged signal measurements
   * FrequencyBodyGyroscopeStandardDevX
   * FrequencyBodyGyroscopeStandardDevY
   * FrequencyBodyGyroscopeStandardDevZ
-* Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body acceleration:
+* Average and standard deviation of the frequency components of the frequency-domain magnitude of body acceleration:
   * FrequencyBodyAccelerometerMagnitudeMean
   * FrequencyBodyAccelerometerMagnitudeStandardDev
-  * MISSING
-* Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
+* Average and standard deviation of the frequency components of the frequency-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
   * FrequencyBodyAccelerometerJerkMagnitudeMean
-  * FrequencyBodyAccelerometerJerkMagnitudeStandardDev
-  * MISSING
-* Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity:
+  * FrequencyBodyAccelerometerJerkMagnitudeStandardDev  
+* Average and standard deviation of the frequency components of the frequency-domain magnitude of body angular velocity:
   * FrequencyBodyGyroscopeMagnitudeMean
   * FrequencyBodyGyroscopeMagnitudeStandardDev
-  * MISSING
-* Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
+* Average and standard deviation of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
   * FrequencyBodyGyroscopeJerkMagnitudeMean
   * FrequencyBodyGyroscopeJerkMagnitudeStandardDev
-  * MISSING
 
 ## Transformations 
 
