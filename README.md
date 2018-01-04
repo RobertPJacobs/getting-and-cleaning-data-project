@@ -7,7 +7,7 @@ The dataset used: [Human Activity Recognition Using Smartphones](http://archive.
 
 ## Data
 
-All databse files need are automatically downloaded, unzipped and processed via the provided R Scriot
+All data files needed are automatically downloaded, unzipped and processed via the provided R Scriot
 
 ## CodeBook.md 
 
@@ -15,7 +15,7 @@ Describes the variables, the data, and any transformations or work that was perf
 
 ## run_analysis.R
 
-An R script file called run_analysis.R contains the steps to perform the analays. This file can downloaded and run from RStudio using the steps provided at the of the script.
+An R script file called run_analysis.R contains all the steps to perform the analays. This file can downloaded and run from RStudio using the steps provided at the of the script.
 
 ## Output 
 
