@@ -123,11 +123,11 @@ The zip file of source data can be found at [https://d396qusza40orc.cloudfront.n
 
 Transformations done:
 
-1. The data was downloaded and unzipped 
+1. The data was downloaded, unzipped and loaded into individual data tables. 
 1. The training and the test sets were merged to create one data set.
-1. Only the measurements on the mean and standard deviation for each measurement was extracted and other data ignored.
-1. Name of the activities in the data set was converted to actual activities
-1. Labeled the data set with descriptive variable names
-1. Created a second, independent tidy data set with the average of each variable for each activity and each subject.
+1. Only the measurements on the mean and standard deviations for each measurement was extracted and other data was discarded.
+1. The Activity column in the data set was expanded to list actual activities.
+1. Each column in the data set was labeled the with descriptive variable names.
+1. A tidy data file was created and saved set with the average of each variable was created for each activity and each subject.
 
 The transformations listed were implemented by the `run_analysis.R` R script.
