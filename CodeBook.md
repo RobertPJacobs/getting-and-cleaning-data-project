@@ -23,7 +23,7 @@ Each row contains 2 identifiers:
         
 ## Variables
 
-In addition to the identifies Each row containss 66 averaged signal measurements:
+In addition to the identifies each row containss 66 averaged signal measurements:
 
 * Average time-domain body acceleration X, Y and Z directions:
   * TimeBodyAccelerometerMeanX
