@@ -1,10 +1,10 @@
 # **Code book for Coursera Getting and Cleaning Data course project**
 
-## Data
-The tidydata.txt data file is a space-separated text file.
+## Output Data
 
-The first row contains the names of the variables, which are listed and described in the Variables section
-The following rows contain the values of these variables.
+The output data file 'tidydata.txt' is a space-separated text file.
+
+The first row contains the names of the variables, which are listed and described in the Indentifiers and Variables sections
 
 ## Identifiers
 
