@@ -86,11 +86,11 @@ In addition to the identifies Each row containss 66 averaged signal measurements
   * FrequencyBodyAccelerometerMeanX
   * FrequencyBodyAccelerometerMeanY
   * FrequencyBodyAccelerometerMeanZ
-*  Standard deviation of the frequency-domain body acceleration X, Y and Z directions:
+* Standard deviation of the frequency-domain body acceleration X, Y and Z directions:
   * FrequencyBodyAccelerometerStandardDevX
   * FrequencyBodyAccelerometerStandardDevY
   * FrequencyBodyAccelerometerStandardDevZ
-*  Average frequency-domain body acceleration jerk (derivation of the acceleration in time) X, Y and Z directions:
+* Average frequency-domain body acceleration jerk (derivation of the acceleration in time) X, Y and Z directions:
   * FrequencyBodyAccelerometerJerkMeanX
   * FrequencyBodyAccelerometerJerkMeanY
   * FrequencyBodyAccelerometerJerkMeanZ
@@ -118,7 +118,7 @@ In addition to the identifies Each row containss 66 averaged signal measurements
   * FrequencyBodyGyroscopeMagnitudeMean
   * FrequencyBodyGyroscopeMagnitudeStandardDev
   * MISSING
-Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
+* Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
   * FrequencyBodyGyroscopeJerkMagnitudeMean
   * FrequencyBodyGyroscopeJerkMagnitudeStandardDev
   * MISSING
