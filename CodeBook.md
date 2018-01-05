@@ -6,6 +6,21 @@ The output data file 'tidydata.txt' is a space-separated text file.
 
 The first row contains the names of the variables, which are listed and described in the Indentifiers and Variables sections
 
+## Average of measurements
+
+All measurements are floating-point values, normalised and bounded within [-1,1].
+
+Prior to normalisation, acceleration measurements were made in g's (9.81 m.s⁻²) and gyroscope measurements  were made in radians per second (rad.s⁻¹).
+
+Magnitudes of three-dimensional signals (variables containing Magnitude) were calculated using the Euclidean norm.
+
+The measurements are classified in two domains:
+
+    Time-domain signals (variables prefixed by 'Time'), resulting from the capture of accelerometer and gyroscope raw signals.
+
+    Frequency-domain signals (variables prefixed by 'Frequency'), resulting from the application of a Fast Fourier Transform (FFT) to some of the time-domain signals.
+
+
 ## Identifiers
 
 Each row contains 2 identifiers:
